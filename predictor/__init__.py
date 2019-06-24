@@ -1,0 +1,1 @@
+from .bert_multitask import Bert_Multitask_Predictor
